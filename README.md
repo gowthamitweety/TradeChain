@@ -59,3 +59,37 @@ _To run source code:_
     1. npm install
     2. npm run start 
     3. This will start front end application in localhost:3000
+
+Search below Companies:
+	
+| Tickers | Company Name |
+|--------| -------|
+| TECHM.BSE| Tech Mahindra |
+| INFY.BSE| Infosys |
+| M&M.BSE| Mahindra & Mahindra |
+| APOLLOTYRE.BSE| Apollo Tyres |
+| ARVIND.BSE| Arvind Ltd |
+| BHARTIARTL.BSE| Bharati Airtel |
+| AXISBANK.BSE| Axis Bank |
+| BPCL.BSE| Bharath Petroleum Corporation |
+| DIVISLAB.BSE| Divi's Laboratories |
+| DRREDDY.BSE| Dr. Reddy's Laboratories |
+| MO| Altria Group, Inc. |
+| AVB| AvalonBay Communities |
+| BBY| Best Buy Co., Inc. |
+| BK| BNY Mellon |
+| CL| Colgate Palmolive Company |
+| MMM| 3M Company |
+| ANF| Abercrombie & Fitch Co. |
+| ABT| Abbott Laboratories |
+| ADBE| Adobe |
+| ALK| Alaska Air Group |
+| AAL| American Airlines Group Inc |
+| AXP| American Express |
+| WHR| Whirlpool Corporation |
+| WDAY| Workday, Inc |
+| VZ| Verizon Communications Inc. |
+| VMW| VMware, Inc |
+| X| United States Steel Corporation |
+| DIS| The Walt Disney Company |
+| TDC| Teradata Corp. |
